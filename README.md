@@ -1,4 +1,4 @@
-# Inductive-conformal-prediction
+# Inductive-conformal-prediction for Regression
 Implementation of Inductive conformal prediction with Lasso regression model on diabetes dataset. The dataset is split into train data and test data, and lasso model is trained with train data and makes predictions on test data. The inductive conformal predictor gives a prediction intervals, in which the true label value lies with a specific confidence,based on the significance level specified by the user.
 
 ## Dataset
